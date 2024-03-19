@@ -96,3 +96,21 @@
 # Only true or false
 # is_cool = True
 # is_cool =False
+
+
+# Remove after adding next lesson
+# make a new string
+# string = string + "10"
+# print(string)
+
+# Methods and built in functions
+# string = "to be or not to be"
+# string = string.replace("be", "me")
+
+# print(string)
+
+# Boolean
+# Only true or false
+# is_cool = True
+# is_cool =False
+# Remove after adding next lessons
